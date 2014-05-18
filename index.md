@@ -1,6 +1,10 @@
 ---
 layout: default
-title: Home
+title: Index
+permalink: index.html
 ---
 
+**Test**
+
+![Golden Gate Bridge](../images/golden-gate.jpg)
 
