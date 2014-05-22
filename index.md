@@ -7,3 +7,7 @@ More information will be posted soon.
 
 ![Golden Gate Bridge](../images/golden-gate.jpg)
 
+
+**News:**
+
+[Preliminary Call for Papers now available](../cfp)
