@@ -1,12 +1,4 @@
----
-layout: default
-title: Call for Papers
-permalink: /cfp/
----
-
-+ [Download txt version](../files/ppopp_cfp.txt)
-
-**PPoPP 2015 - Preliminary Call for Papers**
+PPoPP 2015 - Preliminary Call for Papers
 
 PPoPP is the forum for leading work on all aspects of parallel
 programming, including foundational and theoretical aspects,
@@ -21,26 +13,25 @@ that addresses new parallel workloads, techniques, and tools that
 attempt to improve the productivity of parallel programming, and work
 towards improved synergy with such emerging architectures. Specific
 topics of interest include (but are not limited to):
-
-+ Parallel programming theory and models
-+ Formal analysis and verification
-+ Parallel programming languages
-+ Compilers and runtime systems for parallel and heterogeneous systems
-+ Task-parallel libraries
-+ Parallel application frameworks
-+ Software productivity for parallel programming
-+ Middleware for parallel systems
-+ Performance analysis, debugging and optimization
-+ Development, analysis, or management tools
-+ Parallel algorithms
-+ Parallel applications
-+ Concurrent data structures
-+ Synchronization and concurrency control
-+ Software engineering for parallel programs
-+ Fault tolerance for parallel systems
-+ Software for heterogeneous architectures
-+ Programming tools for parallel and heterogeneous systems
-+ Parallelism in non-scientific workloads: web servers, search, analytics, cloud computing
+  + Parallel programming theory and models
+  + Formal analysis and verification
+  + Parallel programming languages
+  + Compilers and runtime systems for parallel and heterogeneous systems
+  + Task-parallel libraries
+  + Parallel application frameworks
+  + Software productivity for parallel programming
+  + Middleware for parallel systems
+  + Performance analysis, debugging and optimization
+  + Development, analysis, or management tools
+  + Parallel algorithms
+  + Parallel applications
+  + Concurrent data structures
+  + Synchronization and concurrency control
+  + Software engineering for parallel programs
+  + Fault tolerance for parallel systems
+  + Software for heterogeneous architectures
+  + Programming tools for parallel and heterogeneous systems
+  + Parallelism in non-scientific workloads: web servers, search, analytics, cloud computing
 
 Papers should report on original research relevant to parallel
 programming, and should contain enough background materials to make
@@ -61,7 +52,7 @@ in PDF formatted for US lettersize paper. They must not exceed 10
 pages (all inclusive) in standard ACM two-column conference format
 (preprint mode, with page number). Templates for ACM format are
 available for Microsoft Word, and LaTeX at
-[http://www.sigplan.org/authorInformation.htm](http://www.sigplan.org/authorInformation.htm)  (use the 9 pt
+http://www.sigplan.org/authorInformation.htm (use the 9 pt
 template). Over-length submissions will not be accepted. Submissions
 will be judged on correctness, relevance, originality, significance,
 and clarity.
@@ -76,7 +67,7 @@ reveal authorship, but as long as an effort was made to follow these
 guidelines, the submission will not be penalized. Authors must
 identify any conflicts-of-interest with PC members and external review
 committee members, as defined here:
-[http://www.sigplan.org/review_policies.htm](http://www.sigplan.org/review_policies.htm) (ACM SIGPLAN policy).
+http://www.sigplan.org/review_policies.htm (ACM SIGPLAN policy).
 
 Poster submissions must conform to the same format restrictions, but
 may not exceed 2 pages in length. Paper submissions that are not
@@ -91,14 +82,14 @@ Francisco Bay Area (exact location to be announced shortly).  Authors
 should carefully consider the difference in focus of the conferences
 when deciding where to submit a paper.
 
-Important dates:  
-  Abstract submission: September 5, 2014  
-  Full paper submission: September 12, 2014  
-  Author pesponse period: October 28-30, 2014 (Tentative)  
-  Notification of acceptance: November 10, 2014  
+Important dates:
+  Abstract submission: September 5, 2014
+  Full paper submission: September 12, 2014
+  Author pesponse period: October 28-30, 2014 (Tentative)
+  Notification of acceptance: November 10, 2014
 
-General Chair  
+General Chair
   Albert Cohen, INRIA
 
-Program Chair   
+Program Chair 
   David Grove, IBM Research 
