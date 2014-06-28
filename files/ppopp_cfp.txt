@@ -1,4 +1,4 @@
-PPoPP 2015 - Preliminary Call for Papers
+PPoPP 2015 - Call for Papers
 
 PPoPP is the forum for leading work on all aspects of parallel
 programming, including foundational and theoretical aspects,
@@ -78,14 +78,13 @@ submission. Two-page summaries of posters will be included in the
 conference proceedings.
 
 PPoPP 2015 will be co-located with HPCA 2015 and CGO 2015 in the San
-Francisco Bay Area (exact location to be announced shortly).  Authors
-should carefully consider the difference in focus of the conferences
-when deciding where to submit a paper.
+Francisco Bay Area.  Authors should carefully consider the difference 
+in focus of the conferences when deciding where to submit a paper.
 
 Important dates:
   Abstract submission: September 5, 2014
   Full paper submission: September 12, 2014
-  Author pesponse period: October 28-30, 2014 (Tentative)
+  Author response period: October 28-30, 2014
   Notification of acceptance: November 10, 2014
 
 General Chair
@@ -93,3 +92,35 @@ General Chair
 
 Program Chair 
   David Grove, IBM Research 
+
+Program Committee
+  Rajesh Bordawekar         IBM Research
+  Barbara Chapman           University of Houston
+  Daniel G. Chavarría       Pacific Northwest National Laboratory
+  Yifeng Chen               Peiking University
+  Brian Demsky              University of California, Irvine
+  Alastair Donaldson        Imperial College
+  Pascal Felber             University of Neuchatel (Switzerland)
+  Jeremy T. Fineman         Georgetown University
+  Basilio B. Fraguela       Universidade da Coruña
+  Michael Garland           NVIDIA
+  Maria J. Garzaran         University of Illinois at Urbana-Champaign
+  David Grove (chair)       IBM Research               
+  Alexander Matveev         MIT
+  Frank Mueller             North Carolina State University
+  Madan Musuvathi           Microsoft Research
+  Rupesh Nasre              IIT Madras
+  Iulian Neamtiu            University of California, Riverside
+  Dimitrios Nikolopoulos    Queen's University of Belfast, United Kingdom
+  Vijay Reddi               University of Texas at Austin
+  P. Sadayappan             Ohio State University
+  Martin Schulz             Lawrence Livermore National Laboratory
+  Michelle Mills Strout     Colorado State University
+  Olivier Tardieu           IBM Research
+  Philippas Tsigas          Chalmers University of Technology
+  Robert A. van de Geijn    University of Texas at Austin
+  Richard Vuduc             Georgia Institute of Technology
+  Michael Weber             Qualcomm
+  Peng Wu                   Huawei US research lab
+  Francesco Zappa Nardelli  INRIA
+  Antonia Zhai              University of Minnesota
