@@ -23,10 +23,9 @@ Zvonimir Rakamaric, University of Utah
 **Publicity Chair:**  
 Antoniu Pop, University of Manchester
 
-<!---
 **Student Travel Chair:**  
-TBD
--->
+Torsten Hoefler, ETH Zürich  
+Stéphane Zuckerman, University of Delaware
 
 <!---
 **Regional Publicity Chairs:**  
