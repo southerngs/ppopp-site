@@ -1,4 +1,4 @@
-/* Base */
+/ Base */
 
 * {
   box-sizing: border-box;
@@ -8,7 +8,7 @@
 
 body {
   font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: 300;
   color: black;
   background: #f2f0e4;
@@ -378,7 +378,7 @@ article {
   padding: 20px;
   margin: 0 10px;
   box-shadow: 0 3px 10px rgba(0,0,0,.1);
-  font-size: 16px;
+  font-size: 14px;
 }
 
 @media (max-width: 480px){
@@ -396,7 +396,7 @@ article {
 @media (min-width: 768px){
   article {
     padding: 40px 40px 30px;
-    font-size: 21px;
+    font-size: 14px;
   }
 }
 
