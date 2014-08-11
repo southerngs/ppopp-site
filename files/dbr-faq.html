@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+
+body { 
+  margin: 15px; 
+  padding: 15px; 
+  background-color: #feffff;
+  font-family: "Helvetica", sans-serif; 
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+table.dates { margin-top: 0em; }
+
+li {
+  line-height: 20px;  
+}
+
+a.plain { text-decoration: none; }
+ 
+A:link {text-decoration: none; color: #0033BB}
+A:visited {text-decoration: none; color: #0033BB;}
+A:active {text-decoration: none; color: #0033BB;}
+A:hover {text-decoration: underline; color: #0033BB;}
+
+h1 {
+    text-align: left;
+    color:  #15317e;
+    font-family: Arial,Helvetica,sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-width: thin;
+    font-size: 16pt;
+    color: #15317e;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #afdcec;
+    text-align: center;
+}
+
+h3 { 
+    margin-bottom: 0em; 
+    font-family: Arial, Helvetica; 
+    font-size: 20pt; 
+    margin-top:0.8cm; 
+}
+
+h4 { margin-bottom: 0em; }
+
+p {line-height: 1.3;} 	
+p.toppar { 
+  text-indent: 25px; 
+  margin-bottom: 0; 
+  margin-top: 0; 
+  line-height: 1.4; 
+  text-align: justify; 
+}
+p.person { margin-left: 2em; margin-top: 0em; }
+
+div.indent { margin-left: +2em; }
+
+</style>
+    <script type="text/javascript">
+
+function showLastModified() {
+  var out = document.getElementById('lastModified');
+  var d = new Date();
+  if (d.toLocaleDateString) {
+    out.innerHTML = d.toLocaleDateString(document.lastModified);
+  }
+  else {
+    out.innerHTML = document.lastModified;
+  }
+}
+
+window.onload = showLastModified;
+</script>
+  </head>
+  <body>
+    <h1>PPoPP 2015: FAQ concerning double-blind reviewing</h1>
+    <p><span style="color: red;">These guidelines were originally
+        created by <a href="http://www.cs.umd.edu/%7Emwh/">Michael
+          Hicks</a> for POPL 2012, slightly modified for PLDI 2012 by
+        Frank Tip. They were shortened by Keshav Pingali for PLDI 2014.
+      </span><br>
+    </p> 
+    <p><span style="color: red;">If you have any questions or concerns
+        not addressed by these guidelines, please feel free to contact 
+        the program chair at 
+        <a href="mailto:groved@us.ibm.com">groved@us.ibm.com.
+      </span><br>
+    </p> 
+   <p>Last Modified on <span id="lastModified">Friday, August 8,
+        2014</span></p>
+    <p><b>General</b>
+    </p>
+    <ul>
+      <li><a href="#g1"><i>Why are you using double-blind reviewing?</i></a>
+      </li>
+      <li><a href="#g2"><i>Do you really think blinding actually works?
+            I suspect reviewers can often guess who the authors are
+            anyway.</i></a>
+      </li>
+      <li><a href="#g3"><i>Couldn't blind submission create an injustice
+            where a paper is inappropriately rejected based upon
+            supposedly-prior work which was actually by the same authors
+            and not previously published?</i></a>
+      </li>
+    </ul>
+    <b>For authors</b>
+    <ul>
+      <li><a href="#a1"><i>What exactly do I have to do to anonymize my
+            paper?</i></a>
+      </li>
+      <li><a href="#a2"><i>I would like to provide supplementary
+            material for consideration, e.g., the code of my
+            implementation or proofs of theorems. How do I do this?</i></a>
+      </li>
+      <li><a href="#a3"><i>Is there a way for me to submit anonymous
+            supplemental material which could be considered by a
+            reviewer before she submits her review (rather than
+            potentially non-anonymous material that can only be viewed
+            afterward) ?</i></a>
+      </li>
+      <li><a href="#a4"><i>I am building on my own past work on the
+            WizWoz system. Do I need to rename this system in my paper
+            for purposes of anonymity, so as to remove the implied
+            connection between my authorship of past work on this system
+            and my present submission?</i></a>
+      </li>
+      <li><a href="#a5"><i>I am submitting a paper that extends my own
+            work that previously appeared at a workshop. Should I
+            anonymize any reference to that prior work?</i></a>
+      </li>
+      <li><a href="#a6"><i>Am I allowed to post my (non-blinded) paper
+            on my web page? Can I advertise the unblinded version of my
+            paper on mailing lists or send it to colleagues? May I give
+            a talk about my work while it is under review?</i></a>
+      </li>
+      <li><a href="#a7"><i>Will the fact that PPoPP is double-blind have
+            an impact on handling conflicts-of interest?</i></a>
+      </li>
+    </ul>
+    <b>For Reviewers</b>
+    <ul>
+      <li><a href="#r1"><i>What should I do if I if I learn the authors'
+            identity? What should I do if a prospective PPoPP author
+            contacts me and asks to visit my institution?</i></a>
+      </li>
+      <li><a href="#r2"><i>The authors have provided a URL to
+            supplemental material. I would like to see the material but
+            I worry they will snoop my IP address and learn my identity.
+            What should I do?</i></a>
+      </li>
+      <li><a href="#r3"><i>If I am assigned a paper for which I feel I
+            am not an expert, how do I seek an outside review?</i></a>
+      </li>
+      <li><a href="#r4"><i>What criteria do I use for identifying
+            potential conflicts of interest?</i></a>
+      </li>
+    </ul>
+    <h2>General</h2>
+    <p><a name="g1"><b>Q</b>: <i>Why are you using double-blind
+          reviewing?</i></a>
+    </p>
+    <p><b>A</b>: Our goal is to give each a reviewer an unbiased "first
+      look" at each paper. Studies have shown that a reviewer's attitude
+      toward a submission may be affected, even unconsciously, by the
+      identity of the author. We want reviewers to be able to approach
+      each submission without such involuntary reactions as "Barnaby; he
+      writes a good paper" or "Who are these people? I have never heard
+      of them." For this reason, we ask that authors to omit their names
+      from their submissions, and that they avoid revealing their
+      identity through citation. Note that many systems and security
+      conferences use double-blind reviewing and have done so for years
+      (e.g., SIGCOMM, OSDI, IEEE Security and Privacy, SIGMOD). PLDI, OOPSLA, and PPoPP have
+      done it for several years now. </p>
+    <p>A key principle to keep in mind is that we intend this process to
+      be cooperative, not adversarial. If a reviewer does discover an
+      author's identity though a subtle clue or oversight the author
+      will not be penalized.</p>
+    <p><a name="g2"><b>Q</b>: <i>Do you really think blinding actually
+          works? I suspect reviewers can often guess who the authors are
+          anyway.</i></a>
+    </p>
+    <p><b>A</b>: Authorship can be guessed correctly sometimes, but
+      imperfect blinding is better than no blinding at all, we believe.<br>
+    </p>
+    <p><a name="g3"><b>Q</b>: <i>Couldn't blind submission create an
+          injustice where a paper is inappropriately rejected based upon
+          supposedly-prior work which was actually by the same authors
+          and not previously published?</i></a>
+    </p>
+    <p><b>A</b>: I have heard of this happening, and this is indeed a
+      serious issue. In the approach we are taking for PPoPP'15, author
+      names are revealed to reviewers after they have submitted their
+      review. Therefore, reviewers can correct their review if they
+      indeed have penalized the authors inappropriately. Unblinding
+      prior to the PC meeting also avoids abuses in which committee
+      members end up advancing the cause of a paper with which they have
+      a conflict.
+    </p>
+    <h2>For authors</h2>
+    <p><a name="a1"><b>Q</b>: <i>What exactly do I have to do to
+          anonymize my paper?</i></a>
+    </p>
+    <p><b>A</b>: Use common sense. Your job is not to make your identity
+      undiscoverable but simply to make it possible for our reviewers to
+      evaluate your submission without having to know who you are. The
+      specific guidelines stated in the call for papers are simple: omit
+      authors' names from your title page (or list them as "omitted for
+      submission"), and when you cite your own work, refer to it in the
+      third person. For example, if your name is Smith and you have
+      worked on amphibious type systems, instead of saying "We extend
+      our earlier work on statically typed toads (Smith 2004)," you
+      might say "We extend Smith's (2004) earlier work on statically
+      typed toads." Also, be sure not to include any acknowledgements
+      that would give away your identity. </p>
+    <p><a name="a2"><b>Q</b>: <i>I would like to provide supplementary
+          material for consideration, e.g., the code of my
+          implementation or proofs of theorems. How do I do this?</i></a>
+    </p>
+    <p><b>A</b>:You may submit non-anonymized supplementary material by 
+      emailing it (or links to it) to the program chair at any time
+      after you have submitted your abstract to the submission system
+      but before the final deadline for full paper submissions. This
+      supplementary material need <b>not</b> be anonymized; it will
+      only be revealed to reviewers after they have submitted their
+      review of your paper and learned your identity. Reviewers are
+      under no obligation to look at this material. The submission
+      itself is the object of review and so it should strive to convince
+      the reader of at least the plausibility of reported results;
+      supplemental material only serves to confirm, in more detail, the
+      idea argued in the paper. Of course, reviewers are free to change
+      their review upon viewing supplemental material (or for any other
+      reason). For those authors who wish to supplement, we encourage
+      them to mention the supplement in the body of the paper. E.g.,
+      "The proof of Lemma 1 is included in the non-anonymous
+      supplemental material submitted with this paper."
+    </p>
+    <p><a name="a3"><b>Q</b>: <i>Is there a way for me to submit
+          anonymous supplemental material which could be considered by a
+          reviewer before she submits her review (rather than
+          potentially non-anonymous material that can only be viewed
+          afterward) ?</i></a>
+    </p>
+    <p><b>A</b>: You may submit modestly-sized anonymized supplementary 
+      material (a few MB at most as a single file or zip archive) by emailing 
+      it to the program chair at any time after you have submitted your abstract 
+      to the submission system but before the final deadline for full paper 
+      submissions. The program chair will make the material available to 
+      the reviewers along with the paper at the time of review assignment,
+      but the reviewers are under no obligation to look at the material.<br>
+      There is no official channel for submitting large amounts of anonymized 
+      supplementary material (eg the code for your entire system). 
+      That said, there is nothing stopping an author from releasing a
+      TR, code, etc. via an anonymous hosting service, and including a
+      URL to that material in the paper. We point out this option not to
+      encourage authors to exercise it, but to make them aware it
+      exists, since we know of others who have used it. We emphasize
+      that authors should strive to make their paper as convincing as
+      possible on its own, in case reviewers choose not to access
+      supplemental material.
+    </p>
+    <p><a name="a4"><b>Q</b>: <i>I am building on my own past work on
+          the WizWoz system. Do I need to rename this system in my paper
+          for purposes of anonymity, so as to remove the implied
+          connection between my authorship of past work on this system
+          and my present submission?</i></a>
+    </p>
+    <p><b>A</b>: No. The relationship between systems and authors
+      changes over time, so there will be at least some doubt about
+      authorship. Increasing this doubt by changing the system name
+      would help with anonymity, but it would compromise the research
+      process. In particular, changing the name requires explaining a
+      lot about the system again because you can't just refer to the
+      existing papers, which use the proper name. Not citing these
+      papers runs the risk of the reviewers who know about the existing
+      system thinking you are replicating earlier work. It is also
+      confusing for the reviewers to read about the paper under Name X
+      and then have the name be changed to Name Y. Will all the
+      reviewers go and re-read the final version with the correct name?
+      If not, they have the wrong name in their heads, which could be
+      harmful in the long run.
+    </p>
+    <p><a name="a5"><b>Q</b>: <i>I am submitting a paper that extends
+          my own work that previously appeared at a workshop. Should I
+          anonymize any reference to that prior work?</i></a>
+    </p>
+    <p><b>A</b>: No. But we recommend you do not use the same title for
+      your PPoPP submission, so that it is clearly distinguished from the
+      prior paper. In general there is rarely a good reason to anonymize
+      a citation. One possibility is for work that is tightly related to
+      the present submission and is also under review. But such works
+      may often be non-anonymous. When in doubt, contact the PC Chair.
+    </p>
+    <p><a name="a6"><b>Q</b>: <i>Am I allowed to post my (non-blinded)
+          paper on my web page? Can I advertise the unblinded version of
+          my paper on mailing lists or send it to colleagues? May I give
+          a talk about my work while it is under review?</i></a>
+    </p>
+    <p><b>A</b>: As far as the authors' publicity actions are concerned,
+      a paper under double-blind review is largely the same as a paper
+      under regular (single-blind) review. Double-blind reviewing should
+      not hinder the usual communication of results. </p>
+    <p>That said, we do ask that you not attempt to deliberately subvert
+      the double-blind reviewing process by announcing the names of the
+      authors of your paper to the potential reviewers of your paper. It
+      is difficult to define exactly what counts as "subversion" here,
+      but some blatant examples include: sending individual e-mail to
+      members of the PC or ERC about your work (unless they are
+      conflicted out anyway), or posting mail to a major mailing list
+      (e.g. TYPES) announcing your paper. On the other hand, it is
+      perfectly fine, for example, to visit other institutions and give
+      talks about your work, to present your submitted work during job
+      interviews, to present your work at professional meetings (e.g.
+      Dagstuhl), or to post your work on your web page. PC/ERC members
+      will not be asked to recuse themselves from reviewing your paper
+      unless they feel you have gone out of your way to advertise your
+      authorship information to them. If you're not sure about what
+      constitutes "going out of your way", please consult directly with
+      the Program Chair.
+    </p>
+    <p><a name="a7"><b>Q</b>: <i>Will the fact that PPoPP is
+          double-blind have an impact on handling conflicts-of interest?
+        </i></a>
+    </p>
+    <p><b>A</b>: Using DBR does not change the principle that reviewers
+      should not review papers with which they have a conflict of
+      interest, even if they do not immediately know who the authors
+      are. Quoting (with slight alteration) from the <a
+        href="http://www.sigplan.org/review_policies.htm">ACM SIGPLAN
+        review policies document</a>:
+    </p>
+    <blockquote> A conflict of interest is defined as a situation in
+      which the reviewer can be viewed as being able to benefit
+      personally in the process of reviewing a paper. For example, if a
+      reviewer is considering a paper written by a member of his own
+      group, a current student, his advisor, or a group that he is seen
+      as being in close competition with, then the outcome of the review
+      process can have direct benefit to the reviewer's own status. If a
+      conflict of interest exists, the potential reviewer should decline
+      to review the paper.</blockquote>
+    <p></p>
+    <h2>For reviewers</h2>
+    <p><a name="r1"><b>Q</b>: <i>What should I do if I if I learn the
+          authors' identity? What should I do if a prospective PPoPP
+          author contacts me and asks to visit my institution?</i></a>
+    </p>
+    <p><b>A</b>: If at any point you feel that the authors' actions are
+      largely aimed at ensuring that potential reviewers know their
+      identity, you should contact the Program Chair. Otherwise you
+      should not treat double-blind reviewing differently from regular
+      blind reviewing. In particular, you should refrain from seeking
+      out information on the authors' identity, but if you discover it
+      accidentally this will not automatically disqualify you as a
+      reviewer. Use your best judgment.
+    </p>
+    <p><a name="r2"><b>Q</b>: <i>The authors have provided a URL to
+          supplemental material. I would like to see the material but I
+          worry they will snoop my IP address and learn my identity.
+          What should I do?</i></a>
+    </p>
+    <p><b>A</b>: Contact the Program Chair, who will download the
+      material on your behalf and make it available to you.
+    </p>
+    <p><a name="r3"><b>Q</b>: <i>If I am assigned a paper for which I
+          feel I am not an expert, how do I seek an outside review?</i></a>
+    </p>
+    <p><b>A</b>: PC and ERC members should do their own reviews, not
+      delegate them to someone else. If doing so is problematic for some
+      papers, e.g., you don't feel completely qualified, then consider
+      the
+      following options. First, submit a review for your paper that is
+      as
+      careful as possible, outlining areas where you think your
+      knowledge is
+      lacking. Assuming we have sufficient expert reviews, that could be
+      the
+      end of it: non-expert reviews are valuable too, since conference
+      attendees are by-and-large not experts for any given paper.
+      Second, the
+      review form provides a mechanism for suggesting additional expert
+      reviewers to the PC Chair, who may contact them if additional
+      expertise
+      is needed.&nbsp;Please do NOT contact outside reviewers yourself.
+      As a last resort, if you feel like your review would be extremely
+      uninformed and you'd rather not even submit a first cut, contact
+      the PC Chair, and another reviewer will be assigned. </p>
+    <p><a name="r4"><b>Q</b>: <i>How do we handle potential conflicts
+          of interest since I cannot see the author names?</i></a> </p>
+    <p><b>A</b>: The conference review system will ask that you identify
+      conflicts of interest when you get an account on the submission
+      system. Please see the <a href="#a7">related question applied to
+        authors</a> to decide how to identify conflicts. Feel free to
+      also identify additional authors whose papers you feel you could
+      not review fairly for reasons other than those given (e.g., strong
+      personal friendship).
+      <a name="studies"></a></p>
+    <br>
+  </body>
+</html>

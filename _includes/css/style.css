@@ -673,6 +673,13 @@ a {
    -webkit-transition: all .25s;
 }
 
+a:link {
+  color: #990000;
+}
+
+a:visited {
+  color: #990000;
+}
 a:hover {
   color: #f90;
 }

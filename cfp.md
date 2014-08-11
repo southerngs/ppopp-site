@@ -5,6 +5,7 @@ permalink: /cfp/
 ---
 
 + [Download txt version](../files/ppopp_cfp.txt)
++ [Submission Site](https://ppopp15.hotcrp.com/) (opens August 18)
 
 **PPoPP 2015 - Call for Papers**
 
@@ -77,6 +78,8 @@ guidelines, the submission will not be penalized. Authors must
 identify any conflicts-of-interest with PC members and external review
 committee members, as defined here:
 [http://www.sigplan.org/review_policies.htm](http://www.sigplan.org/review_policies.htm) (ACM SIGPLAN policy).
+Please see the [following FAQ](../files/dbr-faq.html) for more details about the double-blind
+review process.
 
 Poster submissions must conform to the same format restrictions, but
 may not exceed 2 pages in length. Paper submissions that are not
