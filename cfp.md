@@ -89,6 +89,14 @@ poster session should indicate this in their abstract
 submission. Two-page summaries of posters will be included in the
 conference proceedings.
 
+AUTHORS TAKE NOTE: The official publication date is the date the
+proceedings are made available in the ACM Digital Library. This date may
+be up to two weeks prior to the first day of your conference. The
+official publication date affects the deadline for any patent filings
+related to published work. (For those rare conferences whose proceedings
+are published in the ACM Digital Library after the conference is over,
+the official publication date remains the first day of the conference.)
+
 PPoPP 2015 will be co-located with HPCA 2015 and CGO 2015 in the San
 Francisco Bay Area.  Authors should carefully consider the difference 
 in focus of the conferences when deciding where to submit a paper.
