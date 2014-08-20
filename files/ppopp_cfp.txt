@@ -115,6 +115,7 @@ Program Committee
   Michael Garland           NVIDIA
   Maria J. Garzaran         University of Illinois at Urbana-Champaign
   David Grove (chair)       IBM Research               
+  Tim Harris                Oracle Labs
   Alexander Matveev         MIT
   Frank Mueller             North Carolina State University
   Madan Musuvathi           Microsoft Research

@@ -5,7 +5,7 @@ permalink: /cfp/
 ---
 
 + [Download txt version](../files/ppopp_cfp.txt)
-+ [Submission Site](https://ppopp15.hotcrp.com/) (opens August 18)
++ [Submission Site](https://ppopp15.hotcrp.com/)
 
 **PPoPP 2015 - Call for Papers**
 
@@ -127,6 +127,7 @@ Program Committee
   Michael Garland,           NVIDIA  
   Maria J. Garzaran,         University of Illinois at Urbana-Champaign  
   David Grove (chair),       IBM Research               
+  Tim Harris                 Oracle Labs
   Alexander Matveev,         MIT  
   Frank Mueller,             North Carolina State University  
   Madan Musuvathi,           Microsoft Research  
