@@ -12,7 +12,7 @@ PPoPP 2015 will be held in the San Francisco Bay Area.
 * [Call for Papers now available](../cfp)
 * [Call for Workshops and Tutorials now available](../cfw)
 * [FAQ About Double-Blind review process is posted](../files/dbr-faq.html)
-* Submission site at [https://ppopp15.hotcrp.com/](https://ppopp15.hotcrp.com/) is open
+* Submission site at [https://ppopp15.hotcrp.com/](https://ppopp15.hotcrp.com/) is now open
 
 **Important Dates:**  
 
