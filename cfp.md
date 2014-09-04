@@ -104,8 +104,9 @@ in focus of the conferences when deciding where to submit a paper.
 Important dates:  
   Abstract submission: September 5, 2014  
   Full paper submission: September 12, 2014  
-  Author pesponse period: October 28-30, 2014 (Tentative)  
+  Author response period: October 28-30, 2014 (Tentative)  
   Notification of acceptance: November 10, 2014  
+  Camera ready deadline: December 15, 2014
 
 General Chair  
   Albert Cohen, INRIA
