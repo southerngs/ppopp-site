@@ -18,6 +18,7 @@ David Grove, IBM Research
 [Basilio B. Fraguela](http://gac.udc.es/~basilio),	Universidade da Coruña  
 [Michael Garland](https://research.nvidia.com/users/michael-garland),	NVIDIA  
 [Maria J. Garzaran](http://polaris.cs.uiuc.edu/~garzaran/),	University of Illinois at Urbana-Champaign  
+[Tim Harris](http://timharris.co.uk), Oracle Labs
 [Alexander Matveev](http://people.csail.mit.edu/amatveev/), MIT  
 [Frank Mueller](http://moss.csc.ncsu.edu/~mueller/),	North Carolina State University  
 [Madan Musuvathi](http://research.microsoft.com/en-us/people/madanm/),	Microsoft Research  
