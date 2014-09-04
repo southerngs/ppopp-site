@@ -22,6 +22,7 @@ PPoPP 2015 will be held in the San Francisco Bay Area.
 * W&T notification of acceptance: October 1, 2014  
 * Paper author response period: October 28-30, 2014  
 * Paper Notification of acceptance: November 10, 2014  
+* Camera ready deadline: December 15, 2014
 * W&T date: February 7-8, 2015  
 * Conference date: February 9-11, 2015  
 
