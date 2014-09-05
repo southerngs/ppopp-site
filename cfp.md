@@ -101,20 +101,40 @@ PPoPP 2015 will be co-located with HPCA 2015 and CGO 2015 in the San
 Francisco Bay Area.  Authors should carefully consider the difference 
 in focus of the conferences when deciding where to submit a paper.
 
-Important dates:  
+**Artifact Evaluation Process**
+
+<img style="float: left" hspace="5" src="../images/Ae-stamp-ppopp2015.png">
+
+Authors of accepted papers will be invited to formally submit their supporting
+materials to the Artifact Evaluation process. The Artifact Evaluation process
+is new this year and is run by a separate committee whose task is to assess how
+the artifacts support the work described in the papers. This submission is
+voluntary and will not influence the final decision regarding the papers.
+Papers that go through the Artifact Evaluation process successfully will
+receive a seal of approval printed on the papers themselves. Additional
+information is available on the [PPoPP AEC web page](http://ctuning.org/cm/wiki/index.php?title=Reproducibility:AE:PPoPP2015).
+
+Authors of accepted papers are encouraged to make these materials publicly
+available upon publication of the proceedings, by including them as “source
+materials” in the ACM Digital Library.
+
+
+**Important dates:**  
   Abstract submission: September 5, 2014  
   Full paper submission: September 12, 2014  
   Author response period: October 28-30, 2014 (Tentative)  
   Notification of acceptance: November 10, 2014  
+  Artifact submission deadline: Novemeber 18, 2014
   Camera ready deadline: December 15, 2014
+  Artifact decision: December 17, 2014
 
-General Chair  
+**General Chair**  
   Albert Cohen, INRIA
 
-Program Chair  
+**Program Chair**  
   David Grove, IBM Research  
 
-Program Committee
+**Program Committee**
 
   Rajesh Bordawekar,         IBM Research  
   Barbara Chapman,           University of Houston  
