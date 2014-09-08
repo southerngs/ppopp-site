@@ -445,6 +445,10 @@ aside li.current a:before {
   left: -30px;
 }
 
+aside a:link {
+  text-decoration: none;
+  color: #990000;
+}
 /* Documentation */
 
 .docs article {
@@ -674,6 +678,7 @@ a {
 }
 
 a:link {
+  text-decoration: underline;
   color: #990000;
 }
 

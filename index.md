@@ -2,7 +2,8 @@
 layout: homepage
 ---
 
-PPoPP 2015 will be held in the San Francisco Bay Area.  
+**PPoPP 2015 will be held at that [San Francisco Airport Marriott Waterfront](http://www.marriott.com/hotels/travel/sfobg-san-francisco-airport-marriott-waterfront)**  
+**Co-located with [HPCA 2015](http://darksilicon.org/hpca/) and [CGO 2015](http://cgo.org/cgo2015/)**
 
 ![Golden Gate Bridge](../images/golden-gate.jpg)
 
