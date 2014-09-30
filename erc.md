@@ -26,6 +26,7 @@ Andrew Lumsdaine,  Indiana University
 [Michael Maged](http://researcher.watson.ibm.com/researcher/view.php?person=us-magedm), IBM Research  
 [Samuel Midkiff](http://engineering.purdue.edu/~smidkiff), Purdue University  
 [Josh Milthorpe](http://researcher.watson.ibm.com/researcher/view.php?person=us-jjmiltho), IBM Research  
+[Erez Petrank](http://www.cs.technion.ac.il/~erez/), Technion - Israel Institute of Technology  
 [Sanjay Rajopadhye](http://www.cs.colostate.edu/~svr), Colorado State University  
 [J. (Ram) Ramanujam](http://www.ece.lsu.edu/jxr/jxr.html), Louisiana State University  
 [Alistair Rendell](http://cs.anu.edu.au/~Alistair.Rendell/), Australian National University  
