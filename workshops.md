@@ -13,7 +13,7 @@ permalink: /workshops/
   * Camera-ready deadline: January 24th, 2015
   * Workshop date: February 7th or 8th, 2015
 
-* **Workshop on programming models and applications for Multicores and Manycores (PMAM'15)**
+* **Workshop on Programming Models and Applications for Multicores and Manycores (PMAM'15)**
   * Website: [http://www.cs.otago.ac.nz/pmam2015](http://www.cs.otago.ac.nz/pmam2015)
   * Paper submission deadline: November 3, 2014 
   * Notification of acceptance: December 15, 2014
