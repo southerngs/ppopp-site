@@ -23,8 +23,11 @@ permalink: /workshops/
   * Website: [https://sites.google.com/site/wpmvp2015/](https://sites.google.com/site/wpmvp2015/)
   * Submission deadline: November 15, 2014
 
-* **1st Workshop on High Performance Scripting Languagea**
+* **1st Workshop on High Performance Scripting Languages**
   * Organizers: David Padua (UIUC), Maria Garzaran (UIUC), and Sam Midkiff (Purdue)
+
+* **8th Workshop on General Purpose Processing Using GPUs (GPGPU8)**
+  * Website: [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU8/](http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU8/)
 
 **Tutorials**
 
