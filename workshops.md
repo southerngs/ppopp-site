@@ -24,10 +24,15 @@ permalink: /workshops/
   * Submission deadline: November 15, 2014
 
 * **1st Workshop on High Performance Scripting Languages**
-  * Organizers: David Padua (UIUC), Maria Garzaran (UIUC), and Sam Midkiff (Purdue)
+  * Website: [http://polaris.cs.uiuc.edu/hpsl/](http://polaris.cs.uiuc.edu/hpsl/)
+  * Submission deadline: December 12, 2014
+  * Notification of acceptance: December 20, 2014
 
 * **8th Workshop on General Purpose Processing Using GPUs (GPGPU8)**
   * Website: [http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU8/](http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU8/)
+  * Paper submission deadline: December 1, 2014 
+  * Notification of acceptance: January 5, 2015
+  * Camera-ready deadline: January 15, 2015
 
 **Tutorials**
 
@@ -36,6 +41,7 @@ permalink: /workshops/
 
 * **Power Programming for Mobile Computing** 
   * Organizers: Calin Cascaval and Pablo Montesinos-Ortego (Qualcomm Research Silicon Valley)
+  * Website: [https://sites.google.com/site/maretutorial2015/](https://sites.google.com/site/maretutorial2015/)
 
 * **PGAS And Hybrid MPI+PGAS Programming Models ON Modern HPC Clusters** 
   * Organizers: Dhabaleswar K. (DK) Panda and Khaled Hamidouche (The Ohio State University)
