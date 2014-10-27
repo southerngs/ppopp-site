@@ -11,7 +11,7 @@ permalink: /previous/
 * [PPoPP 2009 (Raleigh, North Carolina)](http://ppopp09.rice.edu/)
 * [PPoPP 2008 (Salt Lake City, Utah)](http://research.ihost.com/ppopp08/)
 * [PPoPP 2007 (San Jose, California)](http://dl.acm.org/citation.cfm?id=1229428)
-* [PPoPP 2006 (Manhattan, New York)](http://dl.acm.org/citation.cfm?id=1122971)
+* [PPoPP 2006 (New York City, New York)](http://dl.acm.org/citation.cfm?id=1122971)
 * [PPoPP 2005 (Chicago, Illinois)](http://www.cs.cornell.edu/Conferences/PPoPP05/)
 * [PPoPP 2003 (San Diego, California)](http://ppopp.lcs.mit.edu/)
 * [PPoPP 2001 (Snowbird, Utah)](http://dl.acm.org/citation.cfm?id=379539)

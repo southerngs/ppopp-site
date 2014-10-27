@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-**PPoPP 2015 will be held at that [San Francisco Airport Marriott Waterfront](http://www.marriott.com/hotels/travel/sfobg-san-francisco-airport-marriott-waterfront)**  
+**PPoPP 2015 will be held at the [San Francisco Airport Marriott Waterfront](http://www.marriott.com/hotels/travel/sfobg-san-francisco-airport-marriott-waterfront)**  
 **Co-located with [HPCA 2015](http://darksilicon.org/hpca/) and [CGO 2015](http://cgo.org/cgo2015/)**
 
 ![Golden Gate Bridge](../images/golden-gate.jpg)
@@ -10,10 +10,7 @@ layout: homepage
 
 **News:**
 
-* [Call for Papers now available](../cfp)
-* [Call for Workshops and Tutorials now available](../cfw)
-* [FAQ About Double-Blind review process is posted](../files/dbr-faq.html)
-* Submission site at [https://ppopp15.hotcrp.com/](https://ppopp15.hotcrp.com/) is now open
+* [Five workshops and three tutorials announced for PPoPP](../workshops)
 * Optional [Artifact Evaluation](http://ctuning.org/cm/wiki/index.php?title=Reproducibility:AE:PPoPP2015) information now available.
 
 **Important Dates:**  

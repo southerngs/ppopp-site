@@ -1,6 +1,6 @@
 ---
 layout: default
-title: VISA 
+title: Visa 
 permalink: /visa/
 ---
 

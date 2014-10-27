@@ -5,7 +5,7 @@ permalink: /sponsors/
 ---
 
 Organizing PPoPP 2015 would not be possible without the support of academic,
-federal and corporate sponsors, they are gratefully acknowledged for their
+federal and corporate sponsors, which are gratefully acknowledged for their
 contributions.
 
 ### Academic and Government Sponsors

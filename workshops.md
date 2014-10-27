@@ -4,7 +4,7 @@ title: Workshops and Tutorials
 permalink: /workshops/
 ---
 
-**Workshops**
+### Workshops
 
 * **2nd Workshop on Parallel Programming for Analytics Applications**
   * Website: [https://sites.google.com/site/2015ppaa/](https://sites.google.com/site/2015ppaa/)
@@ -34,10 +34,11 @@ permalink: /workshops/
   * Notification of acceptance: January 5, 2015
   * Camera-ready deadline: January 15, 2015
 
-**Tutorials**
+### Tutorials
 
 * **Node-Level Performance Engineering**
   * Organizers: Georg Hager, Jan Treibig, and Gerhard Wellein (Erlangen Regional Computing Center and University of Erlangen-Nuremberg, Germany)
+  * Website:[ http://blogs.fau.de/hager/tutorials/ppopp-2015](http://blogs.fau.de/hager/tutorials/ppopp-2015)
 
 * **Power Programming for Mobile Computing** 
   * Organizers: Calin Cascaval and Pablo Montesinos-Ortego (Qualcomm Research Silicon Valley)
