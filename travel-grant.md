@@ -12,19 +12,22 @@ The travel grants are funded in part by the [National Science Foundation (NSF)](
 Students currently attending a university located in the U.S. may be eligible the NSF Grant.  To apply
 for the NSF travel grant a student must provide:
 
-* A resume;
+* A resume
 * A cover letter stating the student’s reason for attending 
-  PPoPP symposium and a description of his or her research interests;
+  PPoPP symposium and a description of his or her research interests including:
+    * If the student will be presenting a paper at PPoPP
+    * If the student is an author of a paper at PPoPP
+      or an assoicated workshop
 * Confirmation of the student’s resources and amounts of funding to
-  travel to the symposium including estimated travel expenses; and
+  travel to the symposium including estimated travel expenses
 * A letter from the student’s advisor that:
-    * Recommends that the student attend PPoPP;
-    * Confirms the student’s eligibility to attend the symposium; and
-    * Endorses the student’s potential for research.
+    * Recommends that the student attend PPoPP
+    * Confirms the student’s eligibility to attend the symposium
+    * Endorses the student’s potential for research
 
 This documentation should be collected by the student and emailed to PPoPP’s
 Student Travel Committee (consisting of Dr. Torsten Hoefler and Dr. Stephane
-Zuckerman) at <ppopp15@unixer.de>.
+Zuckerman) at: <ppopp15@unixer.de>.
 
 Reimbursable expenses include airfare, ground transportation, lodging,
 symposium registration fees, and meals and incidentals subject to a maximum per
