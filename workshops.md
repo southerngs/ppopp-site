@@ -41,7 +41,7 @@ permalink: /workshops/
   * Website:[ http://blogs.fau.de/hager/tutorials/ppopp-2015](http://blogs.fau.de/hager/tutorials/ppopp-2015)
 
 * **Power Programming for Mobile Computing** 
-  * Organizers: Calin Cascaval and Pablo Montesinos-Ortego (Qualcomm Research Silicon Valley)
+  * Organizers: Matthew Badin, Calin Cascaval, Weiwei Chen, Pablo Montesinos-Ortego, and Arun Raman (Qualcomm Research Silicon Valley)
   * Website: [https://sites.google.com/site/maretutorial2015/](https://sites.google.com/site/maretutorial2015/)
 
 * **PGAS And Hybrid MPI+PGAS Programming Models ON Modern HPC Clusters** 
