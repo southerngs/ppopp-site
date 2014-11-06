@@ -35,3 +35,9 @@ sponsors at the conference.
 [Oracle Labs](http://www.oracle.com)  
 <a href="//www.oracle.com/"><img src="../images/oracle_logo.bmp" alt="Oracle" style="width: 400px;"/></a>
 
+[IBM Research](http://www.research.ibm.com/)  
+<a href="http://www.research.ibm.com/"><img src="../images/IBMResearch.jpg" style="width: 400px;"></a>
+
+[Microsoft Research](http://research.microsoft.com/)  
+<a href="http://research.microsoft.com/"><img src="../images/microsoft_logo.jpg" style="width: 400px;"></a>
+
