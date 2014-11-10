@@ -33,7 +33,6 @@ David Grove, IBM Research
 [Philippas Tsigas](http://www.cse.chalmers.se/~tsigas/),	Chalmers University of Technology        
 [Robert A. van de Geijn](	http://www.cs.utexas.edu/users/rvdg/),	University of Texas at Austin  
 [Richard Vuduc](http://vuduc.org),	Georgia Institute of Technology  
-[Michael Weber],		Qualcomm  
 [Peng Wu](http://pengwu.wordpress.com/),	Huawei US research lab  
 [Francesco Zappa Nardelli](	http://www.di.ens.fr/~zappa/),	INRIA  
 [Antonia Zhai](http://www.cs.umn.edu/~zhai),	University of Minnesota  

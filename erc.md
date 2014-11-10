@@ -5,7 +5,6 @@ permalink: /erc/
 ---
 [Gheorghe Almasi](http://researcher.watson.ibm.com/researcher/view.php?person=us-gheorghe), IBM Research  
 [Michael Baueu](http://stanford.edu/~mebauer), Stanford University / NVIDIA Research  
-[Rajdeep Bhowmik](http://cs.binghamton.edu/~rbhowmik/), Cisco Systems, Inc.  
 [Greg Bronevetsky](http://greg.bronevetsky.com/), Lawrence Livermore National Laboratory  
 [Martin Burtscher](http://cs.txstate.edu/~burtscher/), Texas State University  
 [Franck Cappello](http://www.mcs.anl.gov/person/franck-cappello), Argonne National Laboratory  
@@ -28,7 +27,6 @@ Andrew Lumsdaine,  Indiana University
 [Josh Milthorpe](http://researcher.watson.ibm.com/researcher/view.php?person=us-jjmiltho), IBM Research  
 [Erez Petrank](http://www.cs.technion.ac.il/~erez/), Technion - Israel Institute of Technology  
 [Sanjay Rajopadhye](http://www.cs.colostate.edu/~svr), Colorado State University  
-[J. (Ram) Ramanujam](http://www.ece.lsu.edu/jxr/jxr.html), Louisiana State University  
 [Alistair Rendell](http://cs.anu.edu.au/~Alistair.Rendell/), Australian National University  
 [John Reppy](http://people.cs.uchicago.edu/~jhr/), University of Chicago  
 [ Koushik Sen](http://srl.cs.berkeley.edu/~ksen/doku.php?id=), University of California Berkeley  
