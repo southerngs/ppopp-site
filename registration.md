@@ -40,13 +40,13 @@ are an additional charge not included in the main conference fee.
 | **2-Day Workshop/Tutorial**	| **Early (before Jan 11, 2015)** 	| **Regular (after Jan 11, 2015)** 
 | IEEE/ACM Members	        | 279 USD	            | 329 USD
 | Non-members	            | 299 USD	            | 349 USD
-| Students	                | 229 USD	            | 279 USD
+| Students	                | 199 USD	            | 279 USD
 |:------------------------- | :-------------------- | :----------------
 |                           |                       | 
 | **1-Day Workshop/Tutorial**	| **Early (before Jan 11, 2015)** 	| **Regular (after Jan 11, 2015)** 
 | IEEE/ACM Members	        | 229 USD               | 279 USD
 | Non-members	            | 249 USD	            | 299 USD
-| Students	                | 179 USD	            | 229 USD
+| Students	                | 149 USD	            | 229 USD
 |:------------------------- | :-------------------- | :----------------
 |                           |                       | 	 	 
 | **Conference Add-on**     | |
