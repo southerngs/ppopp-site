@@ -21,7 +21,7 @@ for a [SIGPLAN travel grant](http://pac.sigplan.org/).  Note that funds received
 be used to pay conference registration fees as the student fees are already discounted.
 
 ### Registration Site
-Registration for PPoPP will open soon at: [https://regonline.com/ppopp2015](https://regonline.com/ppopp2015)
+Registration for PPoPP will open soon.
 
 
 ### Registration Prices
