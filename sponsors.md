@@ -38,6 +38,9 @@ sponsors at the conference.
 [IBM Research](http://www.research.ibm.com/)  
 <a href="http://www.research.ibm.com/"><img src="../images/IBMResearch.jpg" style="width: 400px;"></a>
 
+[Google](http://www.google.com/)  
+<a href="http://www.google.com/"><img src="../images/google_logo.png" style="width: 400px;"></a>
+
 [Microsoft Research](http://research.microsoft.com/)  
 <a href="http://research.microsoft.com/"><img src="../images/microsoft_logo.jpg" style="width: 400px;"></a>
 
