@@ -6,7 +6,8 @@ permalink: /registration/
 
 ### Registration Details
 
-Conference registration includes admission to the conference, digital
+Conference registration for PPoPP 2015 includes admission to any session in the three co-located
+conference (PPoPP 2015, [HPCA 2015][hpca], [CGO 2015][cgo]), digital
 conference proceedings, banquet and excursion, breakfast, coffee breaks, and
 lunches. 
 
@@ -55,3 +56,6 @@ The early registration deadline is **Jan 9, 2015.**
 | Extra Excursion Ticket: 70 USD | |
 | Extra Pages: 200 USD per page | |
 
+
+[hpca]: http://darksilicon.org/hpca/
+[cgo]: http://cgo.org/cgo2015/
