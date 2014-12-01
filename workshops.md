@@ -38,7 +38,7 @@ permalink: /workshops/
 
 * **Node-Level Performance Engineering**
   * Organizers: Georg Hager, Jan Treibig, and Gerhard Wellein (Erlangen Regional Computing Center and University of Erlangen-Nuremberg, Germany)
-  * Website:[ http://blogs.fau.de/hager/tutorials/ppopp-2015](http://blogs.fau.de/hager/tutorials/ppopp-2015)
+  * Website:[http://blogs.fau.de/hager/tutorials/ppopp-2015](http://blogs.fau.de/hager/tutorials/ppopp-2015)
 
 * **Power Programming for Mobile Computing** 
   * Organizers: Matthew Badin, Calin Cascaval, Weiwei Chen, Pablo Montesinos-Ortego, and Arun Raman (Qualcomm Research Silicon Valley)
@@ -46,5 +46,6 @@ permalink: /workshops/
 
 * **PGAS And Hybrid MPI+PGAS Programming Models ON Modern HPC Clusters** 
   * Organizers: Dhabaleswar K. (DK) Panda and Khaled Hamidouche (The Ohio State University)
+  * Website: [http://web.cse.ohio-state.edu/~panda/ppopp15_hybrid_tutorial.html](http://web.cse.ohio-state.edu/~panda/ppopp15_hybrid_tutorial.html)
 
 
