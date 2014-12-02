@@ -22,7 +22,7 @@ List of accepted papers:
 * Cache-Oblivious Wavefront: Improving Parallelism of Recursive Dynamic Programming Algorithms without losing cache-efficiency	-- *Yuan Tang, Ronghui You, Haibin Kan, Rezaul A. Chowdhury, Pramod Ganapathi, Jesmin Jahan Tithi*
 * Distributed Memory Code Generation for Mixed Irregular/Regular Computations	-- *Mahesh Ravishankar, Roshan Dathatri, Venmugil Elango, Louis-Noel Pouchet, J. Ramanujam, Atanas Rountev, P. Sadayappan*
 * Diagnosing the Causes and Severity of One-sided Message Contention --	*Nathan R. Tallent, Abhinav Vishnu, Hubertus Van Dam, Jeff Daily, Darren J. Kerbyson, Adolfy Hoisie*
-* Scalable and Efficient Implementation of 3D Unstructured Meshes Computation: A Case Study on Matrix Assembly	-- *Loïc Thebault, Eric Petit, Quang Dinh, William Jalby*
+* Scalable and Efficient Implementation of 3D Unstructured Meshes Computation: A Case Study on Matrix Assembly	-- *Loïc Thebault, Eric Petit, Quang Dinh*
 * Predicate RCU: An RCU for Scalable Concurrent Updates	-- *Maya Arbel, Adam Morrison*
 * Dynamic deadlock verification for general barrier synchronisation	-- *Tiago Cogumbreiro, Raymond Hu, Francisco Martins, Nobuko Yoshida*
 * A Parallel Algorithm for Global States Enumeration in Concurrent Systems	-- *Yen-Jung Chang, Vijay K. Garg*
