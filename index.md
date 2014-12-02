@@ -10,6 +10,7 @@ layout: homepage
 
 **News:**
 
+* [Early registration deadline extended to January 11, 2015](../registration)
 * [Registration now open](../registration)
 * [List of accepted papers now available](../program)
 * [Five workshops and three tutorials announced for PPoPP](../workshops)
@@ -19,7 +20,8 @@ layout: homepage
 
 * Conference date: February 9-11, 2015  
 * W&T date: February 7-8, 2015  
-* Early registration deadline: January 9, 2015
+* Early registration deadline: January 11, 2015
+* Travel grant application deadline: January 3, 2015
 * Camera ready deadline: December 15, 2014
 * <s>Paper Notification of acceptance: November 10, 2014  
 * <s>Paper author response period: October 28-30, 2014</s>

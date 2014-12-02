@@ -30,9 +30,9 @@ be used to pay conference registration fees as the student fees are already disc
 Registration fees are listed below.  Remember that the workshop/tutorial registration fees
 are an additional charge not included in the main conference fee.
 
-The early registration deadline is **Jan 9, 2015.**
+The early registration deadline is **January 11, 2015.**
 
-| Conference Registration	| Early (before Jan 9, 2015) | Regular (after Jan 9, 2015)                       
+| Conference Registration	| Early (before Jan 11, 2015) | Regular (after Jan 11, 2015)                       
 |:------------------------- | :-------------------- | :----------------
 | IEEE/ACM Members	        | 589 USD	            | 689 USD                      
 | Non-members	            | 729 USD	            | 829 USD                     
@@ -40,13 +40,13 @@ The early registration deadline is **Jan 9, 2015.**
 | Student Non-members	    | 449 USD	            | 499 USD                      
 |:------------------------- | :-------------------- | :----------------
 |                           |                       |  	 	 
-| **2-Day Workshop/Tutorial**	| **Early (before Jan 9, 2015)** 	| **Regular (after Jan 9, 2015)** 
+| **2-Day Workshop/Tutorial**	| **Early (before Jan 11, 2015)** 	| **Regular (after Jan 11, 2015)** 
 | IEEE/ACM Members	        | 279 USD	            | 329 USD
 | Non-members	            | 299 USD	            | 349 USD
 | Students	                | 199 USD	            | 279 USD
 |:------------------------- | :-------------------- | :----------------
 |                           |                       | 
-| **1-Day Workshop/Tutorial**	| **Early (before Jan 9, 2015)** 	| **Regular (after Jan 9, 2015)** 
+| **1-Day Workshop/Tutorial**	| **Early (before Jan 11, 2015)** 	| **Regular (after Jan 11, 2015)** 
 | IEEE/ACM Members	        | 229 USD               | 279 USD
 | Non-members	            | 249 USD	            | 299 USD
 | Students	                | 149 USD	            | 229 USD
