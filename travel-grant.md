@@ -9,6 +9,7 @@ The travel grants are funded in part by the [National Science Foundation (NSF)](
 
 ###National Science Foundation Grant (NSF)
 * **Application deadline: January 3, 2015**
+* **Submission of applications prior to the deadline (as soon as possible) is appreciated**
 
 Students currently attending a university located in the U.S. may be eligible the NSF Grant.  To apply
 for the NSF travel grant a student must provide:
