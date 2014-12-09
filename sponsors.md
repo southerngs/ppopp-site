@@ -35,6 +35,12 @@ sponsors at the conference.
 [Oracle Labs](http://www.oracle.com)  
 <a href="//www.oracle.com/"><img src="../images/oracle_logo.bmp" alt="Oracle" style="width: 400px;"/></a>
 
+[Huawei](http://www.huawei.com)  
+<a href="//www.huawei.com/"><img src="../images/huawei_logo.jpg" alt="Oracle" style="width: 400px;"/></a>
+
+[Facebook](http://www.facebook.com)  
+<a href="//www.facebook.com/"><img src="../images/facebook_logo.png" alt="Oracle" style="width: 400px;"/></a>
+
 [IBM Research](http://www.research.ibm.com/)  
 <a href="http://www.research.ibm.com/"><img src="../images/IBMResearch.jpg" style="width: 400px;"></a>
 
