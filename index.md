@@ -10,6 +10,7 @@ layout: homepage
 
 **News:**
 
+* [Hotel reservation](../hotel) information is now available
 * Students should apply for [travel grants](../travel-grant) **as soon as possible**
 * [Early registration deadline extended to January 11, 2015](../registration)
 * [Registration now open](../registration)
