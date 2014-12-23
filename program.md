@@ -17,7 +17,7 @@ schedule (which is subject to change) is shown below.
   <tbody>
     <tr> 
       <td>Sunday evening. Exact times TBA</td> 
-      <td>Welcome Reception and Poster Session</td>
+      <td>Welcome Reception and <a href="#posters">Poster Session</a></td>
     </tr>
   </tbody>
 </table>
@@ -202,3 +202,31 @@ schedule (which is subject to change) is shown below.
   </tbody>
 </table>
 
+<a name="posters"></a>
+
+## Poster Session Posters
+
+<ul>
+<li>Fence Placement for Legacy Data-Race-Free Programs via Synchronization Read Detection  – <em>Andrew J. McPherson, Vijay Nagarajan, Susmit Sarkar, and Marcelo Cintra</em>
+<li>JAWS: A JavaScript Framework for Adaptive CPU-GPU Work Sharing  – <em> Xianglan Piao, Channoh Kim, Younghwan Oh, Huiying Li, Jin Cheon Kim, Hanjun Kim, and Jae W. Lee</em></li>
+<li>GStream: A Graph Streaming Processing Method for Large-Scale Graphs on GPUs  – <em>Hyunseok Seo, Jinwook Kim, and Min-Soo Kim</em></li>
+<li>SemCache++: Semantics-Aware Caching for Efficient Multi-GPU Offloading  – <em>Nabeel AlSaber and Milind Kulkarni</em></li>
+<li>An OpenACC-Based Unified Programming Model for Multi-accelerator Systems  – <em>Jungwon Kim, Seyong Lee, and Jeffrey S. Vetter</em></li>
+<li>The Lazy Happens-Before Relation: Better Partial-Order Reduction for Systematic Concurrency Testing  – <em>Paul Thomson and Alastair F. Donaldson</em></li>
+<li>Towards Batched Linear Solvers on Accelerated Hardware Platforms  – <em>Azzam Haidar, Tingxing Dong, Piotr Luszczek, Stanimire Tomov, and Jack Dongarra</em></li>
+<li>A Collection-Oriented Programming Model for Performance Portability  – <em>Saurav Muralidharan, Michael Garland, Bryan Catanzaro, Albert Sidelnik, and Mary Hall</em></li>
+<li>Gunrock: A High-Performance Graph Processing Library on the GPU  – <em>Yangzihao Wang, Andrew Davidson, Yuechao Pan, Yuduo Wu, Andy Riffel, and John D. Owens</em></li>
+<li>Decoupled Load Balancing  – <em>Olga Pearce, Todd Gamblin, Bronis R. de Supinski, Martin Schulz, and Nancy M. Amato</em></li>
+<li>Combining Phase Identification and Statistic Modeling for Automated Parallel Benchmark Generation  – <em>Ye Jin, Mingliang Liu, Xiaosong Ma, Qing Liu, Jeremy S. Logan, Norbert Podhorszki, Jong Youl Choi, and Scott Klasky</em></li>
+<li>Optimization of Asynchronous Graph Processing on GPU with Hybrid Coloring Model  – <em>Xuanhua Shi, Junling Liang, Sheng Di, Bingsheng He, Hai Jin, Lu Lu, Zhixiang Wang, Xuan Luo, and Jianlong Zhong</em></li>
+<li>Efficient and Reasonable Object-Oriented Concurrency  – <em>Scott West, Sebastian Nanz, and Bertrand Meyer</em></li>
+<li>A Programming Model and Runtime System for Significance-Aware Energy-Efficient Computing  – <em>Vassilis Vassiliadis, Konstantinos Parasyris, Charalampos Chalios, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas, Hans Vandierendonck, and Dimitrios S. Nikolopoulos</em></li>
+<li>The Lock-Free k-LSM Relaxed Priority Queue  – <em>Martin Wimmer, Jakob Gruber, Philippas Tsigas, and Jesper Larsson Träff</em></li>
+<li>Static/Dynamic Validation of MPI Collective Communications in Multi-threaded Context  – <em>Emmanuelle Saillard, Patrick Carribault, and Denis Barthou</em></li>
+<li>CASTLE: Fast Concurrent Internal Binary Search Tree using Edge-Based Locking  – <em>Arunmoezhi Ramachandran and Neeraj Mittal</em></li>
+<li>Section Based Program Analysis to Reduce Overhead of Detecting Unsynchronized Thread Communication  – <em>Madan Das, Gabriel Southern, and Jose Renau</em></li>
+<li>A Hierarchical Approach to Reducing Communication in Parallel Graph Algorithms  – <em>Harshvardhan, Nancy M. Amato, and Lawrence Rauchwerger</em></li>
+<li>Precise GPU Race Detection without Access Monitoring  – <em>Pengcheng Li, Hao Luo, Xiaoyu Hu, Chen Ding, and Eddy Z.Zhang</em></li>
+<li>Tiles: A New Language Mechanism for Heterogeneous Parallelism  – <em>Yifeng Chen, Xiang Cui, and Hong Mei</em></li>
+<li>Are Web Applications Ready for Parallelism?  – <em>Cosmin Radoi, Stephan Herhut, Jaswanth Sreeram, and Danny Dig</em></li>
+</ul>
