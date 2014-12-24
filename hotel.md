@@ -28,3 +28,6 @@ The San Francisco Airport Marriott Waterfront is located at 1800 Old Bayshore
 Highway, Burlingame California, near the San Francisco International Airport
 (SFO).  The Marriott has a free shuttle that runs from SFO to the hotel.
 
+### Parking
+
+Parking is available at the San Francisco Airport Marriott Waterfront for $25 per day.
