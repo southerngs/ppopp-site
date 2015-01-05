@@ -8,8 +8,7 @@ Students attending PPoPP may be eligible for a travel grant to reimburse travel 
 The travel grants are funded in part by the [National Science Foundation (NSF)](http://www.nsf.gov/).
 
 ###National Science Foundation Grant (NSF)
-* **Application deadline: January 3, 2015**
-* **Submission of applications prior to the deadline (as soon as possible) is appreciated**
+* **Extended Application Deadline: January 9, 2015**
 
 Students currently attending a university located in the U.S. may be eligible the NSF Grant.  To apply
 for the NSF travel grant a student must provide:
@@ -31,7 +30,7 @@ This documentation should be collected by the student and emailed to PPoPP’s
 Student Travel Committee (consisting of Dr. Torsten Hoefler and Dr. Stephane
 Zuckerman) at: <ppopp15@spcl.inf.ethz.ch>.
 
-The application deadline is **January 3, 2015**.  The committee will attempt to notify
+The extended application deadline is **January 9, 2015**.  The committee will attempt to notify
 students regarding the status of their travel grant prior to the conference early 
 registration deadline of January 11, 2015, but the notification may be later.
 

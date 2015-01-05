@@ -10,8 +10,9 @@ layout: homepage
 
 **News:**
 
+
+* [Student travel grant](../travel-grant) application deadline extended to January 9, 2015
 * [Hotel reservation](../hotel) information is now available
-* Students should apply for [travel grants](../travel-grant) **as soon as possible**
 * [Early registration deadline extended to January 11, 2015](../registration)
 * [Registration now open](../registration)
 * [List of accepted papers now available](../program)
@@ -23,8 +24,8 @@ layout: homepage
 * Conference date: February 9-11, 2015  
 * W&T date: February 7-8, 2015  
 * Early registration deadline: January 11, 2015
-* Travel grant application deadline: January 3, 2015
-* Camera ready deadline: December 15, 2014
+* Travel grant application deadline: January 9, 2015
+* <s>Camera ready deadline: December 15, 2014</s>
 * <s>Paper Notification of acceptance: November 10, 2014  
 * <s>Paper author response period: October 28-30, 2014</s>
 * <s>W&T proposal submission: September 15 (Monday), 2014</s> 

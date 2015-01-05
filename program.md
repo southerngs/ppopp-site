@@ -8,7 +8,7 @@ schedule (which is subject to change) is shown below.
 
 <meta charset="UTF-8">
 
-<h2>Sunday February 10</h2>
+<h2>Sunday February 8</h2>
 <table cellpadding="10" cellspacing="0" border="1"> 
   <colgroup span="1"> 
     <col span="1" width="15%"/> 
@@ -22,7 +22,7 @@ schedule (which is subject to change) is shown below.
   </tbody>
 </table>
 
-<h2>Monday February 11</h2>
+<h2>Monday February 9</h2>
 <table cellpadding="10" cellspacing="0" border="1"> 
   <colgroup span="1"> 
     <col span="1" width="15%"/> 
@@ -99,7 +99,7 @@ schedule (which is subject to change) is shown below.
   </tbody>
 </table>
 
-<h2>Tuesday February 12</h2>
+<h2>Tuesday February 10</h2>
 <table cellpadding="10" cellspacing="0" border="1"> 
   <colgroup span="1"> 
     <col span="1" width="15%"/> 
@@ -167,7 +167,7 @@ schedule (which is subject to change) is shown below.
   </tbody>
 </table>
 
-<h2>Wednesday February 13</h2>
+<h2>Wednesday February 11</h2>
 <table cellpadding="10" cellspacing="0" border="1"> 
   <colgroup span="1"> 
     <col span="1" width="15%"/> 
