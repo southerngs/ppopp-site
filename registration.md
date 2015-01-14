@@ -34,9 +34,9 @@ The early registration deadline is **January 11, 2015.**
 
 | Conference Registration	| Early (before Jan 11, 2015) | Regular (after Jan 11, 2015)                       
 |:------------------------- | :-------------------- | :----------------
-| IEEE/ACM Members	        | 589 USD	            | 689 USD                      
+| IEEE/ACM Members	        | 589 USD	            | 699 USD                      
 | Non-members	            | 729 USD	            | 829 USD                     
-| Student IEEE/ACM Members	| 399 USD	            | 449 USD                      
+| Student IEEE/ACM Members	| 399 USD	            | 459 USD                      
 | Student Non-members	    | 449 USD	            | 499 USD                      
 |:------------------------- | :-------------------- | :----------------
 |                           |                       |  	 	 
@@ -53,7 +53,7 @@ The early registration deadline is **January 11, 2015.**
 |:------------------------- | :-------------------- | :----------------
 |                           |                       | 	 	 
 | **Conference Add-on**     | |
-| Extra Excursion Ticket: 70 USD | |
+| Extra Excursion Ticket: 110 USD | |
 | Extra Pages: 200 USD per page | |
 
 
