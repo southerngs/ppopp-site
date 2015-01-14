@@ -28,7 +28,7 @@ advantage of large, flat and persistent memory spaces.
 
 **Biography:** 
 
-<img style="float: right" src="../images/palol.png" width="200"> 
+<img src="../images/palol.png" width="200" style="float:right; border:10px solid transparent"> 
 
 Paolo Faraboschi is an HP Fellow at HP Labs. His interests are at
 the intersection of system architecture and software. He is currently working
@@ -65,7 +65,7 @@ implementations ([http://arxiv.org/abs/1402.4467](http://arxiv.org/abs/1402.4467
 
 **Biography:**
 
-<img style="float: right" src="../images/wecker.jpg" width="200"> 
+<img style="float:right; border:10px solid transparent" src="../images/wecker.jpg" width="200"> 
 
 Dave came to Microsoft in 1995 and helped create the “Blender”
 (digital video post-production facility). He designed and worked on a Broadband
