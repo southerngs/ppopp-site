@@ -6,7 +6,9 @@ permalink: /keynote/
 * * *
 
 
-## Computing in a Persistent (Memory) World
+## <a name="paolo"></a>Computing in a Persistent (Memory) World
+
+
 
 ### *Paolo Faraboschi, HP Labs*
 
@@ -47,7 +49,7 @@ Genoa, Italy.
 
 * * *
 
-## LIQUi|>: Simulation and Compilation of Quantum Algorithms
+## <a name="wecker">LIQUi|>: Simulation and Compilation of Quantum Algorithms
 
 ### *Dave Wecker, Architect, Microsoft Research*
 

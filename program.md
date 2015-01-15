@@ -16,7 +16,7 @@ schedule (which is subject to change) is shown below.
   </colgroup> 
   <tbody>
     <tr> 
-      <td>Sunday evening. Exact times TBA</td> 
+      <td>18:00-20:00</td> 
       <td>Welcome Reception and <a href="#posters">Poster Session</a></td>
     </tr>
   </tbody>
@@ -36,7 +36,7 @@ schedule (which is subject to change) is shown below.
 
     <tr> 
       <td>8:50-10:00</td> 
-      <td>Keynote Talk  (Joint with CGO/HPCA)</td>
+      <td><a href="../keynote/index.html#paolo">Keynote Talk  (Joint with CGO/HPCA)</a></td>
     </tr>
 
     <tr> 
@@ -176,7 +176,7 @@ schedule (which is subject to change) is shown below.
   <tbody>
     <tr> 
       <td>8:15-9:25</td> 
-      <td>Keynote Talk  (Joint with CGO/HPCA)</td>
+      <td><a href="../keynote/index.html#wecker">Keynote Talk  (Joint with CGO/HPCA)</a></td>
     </tr>
 
     <tr> 

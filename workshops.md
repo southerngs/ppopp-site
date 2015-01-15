@@ -7,6 +7,20 @@ permalink: /workshops/
 ## Schedule
 ***************************************
 
+All workshops and tutorials on Saturday and Sunday will share a common schedule for session times, breaks, and lunch.
+The schedule is as follows:
+
+* *Morning session 1:* **8:30-10:00** 
+* *Morning break:* **10:00-10:30** 
+* *Morning session 2:* **10:30-12:00** 
+* *Lunch:* **12:00-13:30** 
+* *Afternoon session 1:* **13:30-15:00** 
+* *Afternoon session 2:* **15:30-17:00** 
+
+Workshops and tutorials for each day are listed below:
+
+* * * 
+
 ### *Saturday, February 7th, 2015*
 
 **Workshops**
@@ -81,7 +95,7 @@ permalink: /workshops/
 
 * **Node-Level Performance Engineering**
   * Organizers: Georg Hager, Jan Treibig, and Gerhard Wellein (Erlangen Regional Computing Center and University of Erlangen-Nuremberg, Germany)
-  * Website:[http://blogs.fau.de/hager/tutorials/ppopp-2015](http://blogs.fau.de/hager/tutorials/ppopp-2015)
+  * Website: [http://blogs.fau.de/hager/tutorials/ppopp-2015](http://blogs.fau.de/hager/tutorials/ppopp-2015)
 
 * **Power Programming for Mobile Computing** 
   * Organizers: Matthew Badin, Calin Cascaval, Weiwei Chen, Pablo Montesinos-Ortego, and Arun Raman (Qualcomm Research Silicon Valley)
