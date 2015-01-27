@@ -32,6 +32,10 @@ Stéphane Zuckerman, University of Delaware
 TBD
 -->
 
-**Web and Registration Chair:**  
+**Registration Chair:**  
 Gabriel Southern, UC Santa Cruz
+
+**Web Co-Chairs:**  
+Elnaz Ebrahimi, UC Santa Cruz  
+Gabriel Southern, UC Santa Cruz  
 
