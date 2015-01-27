@@ -10,7 +10,7 @@ layout: homepage
 
 **News:**
 
-
+* [Program available via Google Calendar](https://www.conference-publishing.com/listCal.php?Event=PPOPP15&Full=Agenda)
 * [Poster session](../program/index.html#posters) is Sunday, February 8, 2015, from 18:00-20:00
 * [Student travel grant](../travel-grant) application deadline extended to January 9, 2015
 * [Hotel reservation](../hotel) information is now available

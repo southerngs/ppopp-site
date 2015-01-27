@@ -6,6 +6,11 @@ permalink: /program/
 The program for PPoPP has been finalized and the preliminary
 schedule (which is subject to change) is shown below.
 
+The proceedings for [PPoPP 2015](http://dl.acm.org/citation.cfm?id=2688500) are available in the
+ACM Digital Library.
+
+The program is also available via [Google Calendar](https://www.conference-publishing.com/listCal.php?Event=PPOPP15&Full=Agenda).
+
 <meta charset="UTF-8">
 
 <h2>Sunday February 8</h2>
@@ -196,7 +201,12 @@ schedule (which is subject to change) is shown below.
     </tr>
 
     <tr> 
-      <td>10:55-11:15</td> 
+      <td>10:55-11:00</td> 
+      <td>Closing Remarks</td>
+    </tr>
+
+    <tr> 
+      <td>11:00-11:15</td> 
       <td>Break</td>
     </tr>
   </tbody>
