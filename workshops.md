@@ -13,9 +13,13 @@ The schedule is as follows:
 * *Morning session 1:* **8:30-10:00** 
 * *Morning break:* **10:00-10:30** 
 * *Morning session 2:* **10:30-12:00** 
-* *Lunch:* **12:00-13:30** 
-* *Afternoon session 1:* **13:30-15:00** 
-* *Afternoon session 2:* **15:30-17:00** 
+* *Lunch:* **12:00-14:00** 
+* *Afternoon session 1:* **14:00-15:30** 
+* *Afternoon session 2:* **16:00-17:30** 
+
+(Note that [Power Programming for Mobile Computing](https://sites.google.com/site/maretutorial2015/),
+[8th General Purpose Processing Using GPUs](http://www.ece.neu.edu/groups/nucar/GPGPU/GPGPU8/),
+and the Saturday session of [PMAM](http://www.cs.otago.ac.nz/pmam2015) end at 18:00)
 
 Workshops and tutorials for each day are listed below:
 

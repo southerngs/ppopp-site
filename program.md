@@ -52,6 +52,7 @@ The program is also available via [Google Calendar](https://www.conference-publi
     <tr> 
       <td>10:20-12:00</td> 
       <td>Research Papers: Concurrency
+      <br><i>Session Chair: Thomas Gross (ETH Zurich)</i>
 	<ul>
 	  <li>More Than You Ever Wanted to Know about Synchronization: Synchrobench, Measuring the Impact of the Synchronization on Concurrent Algorithms – <em>Vincent Gramoli</em></li>
 	  <li>The SprayList: A Scalable Relaxed Priority Queue –	<em>Dan Alistarh, Justin Kopinsky, Jerry Li, Nir Shavit</em></li>
@@ -69,6 +70,7 @@ The program is also available via [Google Calendar](https://www.conference-publi
     <tr> 
       <td>13:30-14:45</td> 
       <td>Research Papers: Code Generation
+      <br><i>Session Chair: Peng Wu (Huawei)</i>
 	<ul>
 	  <li>A Framework for Practical Parallel Fast Matrix Multiplication	– <em>Austin Benson, Grey Ballard</em></li>
 	  <li>Pluto+: Near-Complete Modeling of Affine Transformations for Parallelism and Locality	– <em>Aravind Acharya, Uday Bondhugula</em></li>
@@ -85,6 +87,7 @@ The program is also available via [Google Calendar](https://www.conference-publi
     <tr> 
       <td>15:10-16:25</td> 
       <td>Research Papers: Transactional Memory
+      <br><i>Session Chair: Jose Moreira (IBM Research)</i>
 	<ul>
 	  <li>Software Partitioning of Hardware Transactions	– <em>Lingxiang Xiang, Michael L. Scott</em></li>
 	  <li>Performance Implications of Dynamic Memory Allocators on Transactional Memory Systems	– <em>Alexandro Baldassin, Edson Borin, Guido Araujo</em></li>
@@ -114,6 +117,7 @@ The program is also available via [Google Calendar](https://www.conference-publi
     <tr> 
       <td>8:25-9:40</td> 
       <td>Research Papers: Large Scale Parallelism
+      <br><i>Session Chair: Olivier Tardieu (IBM Research)</i>
 	<ul>
 	  <li>Barrier Elision for Production Parallel Programs –	<em>Milind Chabbi, Wim Lavrijsen, Wibe de Jong, Koushik Sen, John Mellor-Crummey, Costin Iancu</em></li>
 	  <li>Scalable and Efficient Implementation of 3D Unstructured Meshes Computation: A Case Study on Matrix Assembly	– <em>Loïc Thebault, Eric Petit, Quang Dinh</em></li>
@@ -131,6 +135,7 @@ The program is also available via [Google Calendar](https://www.conference-publi
       <td>10:05-11:45</td> 
       <td>
 	Research Papers: Verification and Accelerators
+  <br><i>Session Chair: Calin Cascaval (Qualcomm)</i>
 	<ul>
 	  <li>A Parallel Algorithm for Global States Enumeration in Concurrent Systems	– <em>Yen-Jung Chang, Vijay K. Garg</em></li>
 	  <li>Dynamic Deadlock Verification for General Barrier Synchronisation	– <em>Tiago Cogumbreiro, Raymond Hu, Francisco Martins, Nobuko Yoshida</em></li>
@@ -158,6 +163,7 @@ The program is also available via [Google Calendar](https://www.conference-publi
       <td>14:45-16:00</td> 
       <td>
 	Research Papers: Algorithms
+  <br><i>Session Chair: Jeremy Fineman (Georgetown University)</i>
 	<ul>
 	  <li>NUMA-aware Graph-structured Analytics	– <em>Kaiyuan Zhang, Rong Chen, Haibo Chen</em></li>
 	  <li>SYNC or ASYNC: Time to Fuse for Distributed Graph-parallel Computation	– <em>Chenning Xie, Rong Chen, Haibing Guan, Binyu Zang, Haibo Chen</em></li>
