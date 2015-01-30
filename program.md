@@ -3,13 +3,18 @@ layout: default
 title: Program 
 permalink: /program/
 ---
-The program for PPoPP has been finalized and the preliminary
-schedule (which is subject to change) is shown below.
+The program for PPoPP has been finalized and the
+schedule is shown below.
 
-The proceedings for [PPoPP 2015](http://dl.acm.org/citation.cfm?id=2688500) are available in the
+The proceedings for [PPoPP 2015](../ppopp-toc.html) are available for free for one
+year through the [links at this page](../ppopp-toc.html).
+
+The proceedings for [PPoPP 2015](http://dl.acm.org/citation.cfm?id=2688500) are also directly available in the
 ACM Digital Library.
 
 The program is also available via [Google Calendar](https://www.conference-publishing.com/listCal.php?Event=PPOPP15&Full=Agenda).
+
+The program is also available in a [mobile optimized format via Confero](http://conferoapp.com/sessions.html?conf=PPOPP2015)
 
 <meta charset="UTF-8">
 

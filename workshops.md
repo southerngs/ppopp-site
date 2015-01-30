@@ -69,6 +69,7 @@ Workshops and tutorials for each day are listed below:
 
 * **2nd Workshop on Parallel Programming for Analytics Applications**
   * Website: [https://sites.google.com/site/2015ppaa/](https://sites.google.com/site/2015ppaa/)
+  * Proceedings: [https://ppopp15.soe.ucsc.edu/pmam-toc.html](../pmam-toc.html)
   * Paper submission deadline: November 24th, 2014
   * Notification of acceptance: January 10th, 2015
   * Camera-ready deadline: January 24th, 2015
