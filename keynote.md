@@ -49,6 +49,48 @@ Genoa, Italy.
 
 * * *
 
+## <a name="modha"></a> A New Architecture for Brain-inspired Computing
+
+### *Dr. Dharmendra S. Modha, IBM Fellow*
+
+### Tuesday, February 10th (1:15 pm – 2:25 pm)
+
+**Abstract:**  I will describe a decade-long, multi-disciplinary,
+multi-institutional effort spanning neuroscience, supercomputing, and
+nanotechnology to build and demonstrate a brain-inspired computer and describe
+the architecture, programming model, and applications. For more information,
+see: modha.org.
+
+
+**Biography:**
+
+<img src="../images/modha.jpg" width="200" style="float:right; border:10px solid transparent"> 
+
+Dr. Dharmendra S. Modha is an IBM Fellow and IBM Chief Scientist for
+Brain-inspired Computing. He is a cognitive computing pioneer who envisioned
+and now leads a highly successful effort to develop brain-inspired computers.
+The groundbreaking project, SyNAPSE, funded by DARPA to the tune of $53.5M, is
+multi-disciplinary, multi-national, multi-institutional and has had worldwide
+scientific impact. Its resulting revolutionary computing architecture and
+ecosystem break from the prevailing von Neumann paradigm and constitute a
+foundation for new classes of ultra-low-power, compact, real-time, multi-modal
+sensorimotor information technology systems. Dr. Modha has also made
+significant contributions to IBM businesses via innovations in caching
+mechanisms for storage controllers, clustering algorithms for services, and
+coding theory for disk drives. His work has been featured in Economist,
+Science, New York Times, BBC, Discover, MIT Technology Report, Associated
+Press, Popular Mechanics, Communications of the ACM, Forbes, Fortune, and IEEE
+Spectrum amongst thousands of media mentions. Author of over 60 papers and
+inventor of over 100 patents, he has won ACM’s Gordon Bell Prize, USENIX/FAST
+Test of Time Award, Best Paper Awards at ASYNC and IDEMI, First Place,
+Science/NSF International Science & Engineering Visualization Challenge, and is
+a Fellow of IEEE and World Technology Network. In 2013 and 2014, he was named
+as Best of IBM. On their 40th Anniversary, EE Times named Dr. Modha amongst 10
+Electronics Visionaries to Watch. Dr. Modha received BTech from IIT Bombay in
+1990 and PhD from UCSD in 1995.
+
+* * *
+
 ## <a name="wecker">LIQUi|>: Simulation and Compilation of Quantum Algorithms
 
 ### *Dave Wecker, Architect, Microsoft Research*

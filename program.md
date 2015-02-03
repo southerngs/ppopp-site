@@ -46,7 +46,7 @@ The program is also available in a [mobile optimized format via Confero](http://
 
     <tr> 
       <td>8:50-10:00</td> 
-      <td><a href="../keynote/index.html#paolo">Keynote Talk  (Joint with CGO/HPCA)</a></td>
+      <td><a href="../keynote/index.html#paolo">Keynote Talk: Computing in a Persistent (Memory) World (Joint with CGO/HPCA)</a></td>
     </tr>
 
     <tr> 
@@ -156,7 +156,7 @@ The program is also available in a [mobile optimized format via Confero](http://
 
     <tr> 
       <td>13:15-14:25</td> 
-      <td>Keynote Talk  (Joint with CGO/HPCA)</td>
+      <td><a href="../keynote/index.html#modha">Keynote Talk: A New Architecture for Brain-inspired Computing  (Joint with CGO/HPCA)</a></td>
     </tr>
 
     <tr> 
@@ -192,7 +192,7 @@ The program is also available in a [mobile optimized format via Confero](http://
   <tbody>
     <tr> 
       <td>8:15-9:25</td> 
-      <td><a href="../keynote/index.html#wecker">Keynote Talk  (Joint with CGO/HPCA)</a></td>
+      <td><a href="../keynote/index.html#wecker">Keynote Talk: LIQUi|>: Simulation and Compilation of Quantum Algorithms (Joint with CGO/HPCA)</a></td>
     </tr>
 
     <tr> 
